@@ -1,5 +1,3 @@
 # BalleHit
 
-
-
-LOUIS TEST INCLUDE FROM BALLE HINT
+Brick-breaking games
